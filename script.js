@@ -4,7 +4,7 @@ const listContainer= document.getElementById("listContainer");
 function addWork(){
 
     if(inputBox.value==""){
-        alert("Kuch add kr bsdk");
+        alert("Kuch add kr bhai");
     }
     else{
         let li = document.createElement("li");
